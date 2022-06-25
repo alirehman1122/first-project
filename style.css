@@ -1,6 +1,12 @@
 body{
-    width: 1024px;
-    height: 761px;
+width: auto;
+height: auto;
+background-image: url(C:\Users\JERRY\OneDrive\Desktop\first/project\water.jpg);
+
+}
+.image-1{
+    background-image: url('C:\Users\JERRY\OneDrive\Desktop\first project\water.jpg');
+    height: 100%;
 }
 
 .main{
